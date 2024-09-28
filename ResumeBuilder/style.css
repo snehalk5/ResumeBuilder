@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#cv-form{
+    /* display: none; */
+}
+#cv-template{
+    display: none;
+}
+/* .Details{
+    background-color:red;
+} */
+.background{
+    background-color: aqua;
+}
